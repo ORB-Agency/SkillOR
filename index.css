@@ -1,0 +1,227 @@
+.pic-obj-icon,
+.search-bar {
+  position: absolute;
+  top: 258px;
+  left: 1065px;
+  width: 608.95px;
+  height: 613px;
+}
+.search-bar {
+  top: 632px;
+  left: 285px;
+  border-radius: 70px;
+  background-color: var(--color-white);
+  width: 484px;
+  height: 48px;
+}
+.search-coursesschoolsetc {
+  border: 0;
+  font-family: var(--font-roboto);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  position: absolute;
+  top: 647px;
+  left: 370px;
+  width: 243px;
+  height: 21px;
+}
+.search-coursesschoolsetc1 {
+  position: absolute;
+  height: 1.94%;
+  width: 12.66%;
+  top: 63.52%;
+  left: 27.76%;
+  font-size: var(--font-size-base);
+  display: inline-block;
+}
+.group-child {
+  position: absolute;
+  top: 0.55px;
+  left: 0;
+  border-radius: 50%;
+  background-color: #3d20ba;
+  width: 52px;
+  height: 49.91px;
+}
+.icon-arrow-forward-outline {
+  position: absolute;
+  height: 97.22%;
+  width: 97.12%;
+  top: 0;
+  right: 2.06%;
+  bottom: 2.78%;
+  left: 0.82%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.ellipse-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 631px;
+  left: 784px;
+  width: 52px;
+  height: 50.45px;
+}
+.vector-icon {
+  position: absolute;
+  height: 2.31%;
+  width: 1.34%;
+  top: 59.72%;
+  right: 82.41%;
+  bottom: 37.96%;
+  left: 16.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.engaging-accessible,
+.from-worldwide-since,
+.the-leader-in {
+  position: absolute;
+  top: 355px;
+  left: 285px;
+  display: inline-block;
+  width: 355px;
+  height: 21px;
+}
+.engaging-accessible,
+.from-worldwide-since {
+  top: 739px;
+}
+.engaging-accessible {
+  top: 420px;
+  font-size: 40px;
+  height: 66px;
+}
+.about-us,
+.courses,
+.home,
+.my-school,
+.profile {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 26px;
+  left: 846px;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 81px;
+  height: 21px;
+}
+.about-us,
+.courses,
+.home,
+.my-school {
+  left: 699px;
+  width: 99px;
+}
+.courses,
+.home,
+.my-school {
+  left: 552px;
+}
+.courses,
+.home {
+  left: 423px;
+  width: 81px;
+}
+.home {
+  left: 317px;
+  width: 58px;
+}
+.skillor-logo-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 134px;
+  height: 76px;
+  object-fit: cover;
+}
+.sign-in {
+  position: absolute;
+  top: 16px;
+  left: 37px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 66px;
+  height: 23px;
+}
+.sign-in-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #92bbe0;
+  position: absolute;
+  top: 8px;
+  left: 981px;
+  border-radius: var(--br-33xl);
+  width: 129px;
+  height: 56px;
+}
+.register {
+  position: absolute;
+  top: 16px;
+  left: 31px;
+  font-size: var(--font-size-mid);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 67px;
+  height: 21px;
+}
+.register-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #3b23ae;
+  position: absolute;
+  top: 8px;
+  left: 1147px;
+  border-radius: var(--br-33xl);
+  width: 129px;
+  height: 56px;
+}
+.header,
+.header1 {
+  position: absolute;
+  top: -26px;
+  left: -317px;
+  width: 1276px;
+  height: 76px;
+}
+.header {
+  top: 88px;
+  left: 597px;
+  width: 610px;
+  height: 21px;
+}
+.home-page {
+  position: relative;
+  background: radial-gradient(
+      50% 50%at 50% 50%,
+      rgba(239, 226, 192, 0.7) 8.33%,
+      rgba(145, 186, 224, 0.9)
+    ),
+    linear-gradient(252.25deg, #91bae0, #efe2c0);
+  width: 100%;
+  height: 1080px;
+  overflow: hidden;
+  mix-blend-mode: normal;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
