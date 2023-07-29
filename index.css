@@ -1,6 +1,6 @@
 .home-page{
   /* Adjust the scale factor as needed (1 = 100%, 0.5 = 50%, 2 = 200%, etc.) */
-  transform: scale(0.5);
+  transform: scale(0.7);
   /* Adjust the transform-origin to control the anchor point for scaling */
   transform-origin: 0 0;
 }
